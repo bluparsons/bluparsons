@@ -1,16 +1,17 @@
-## Hi there 👋
+![1701436506379](https://github.com/user-attachments/assets/b513db06-7054-4c85-ae61-b77846fcffe1)
 
-<!--
-**bluparsons/bluparsons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, I'm Blu, a Data Scientist based in the UK! 
 
-Here are some ideas to get you started:
+Things I'm working on right now: 
+- GCP certifications ⚡
+- Building a portfolio and website 🌱
+- Deploying my recent research to GitHub in an explainable way 🤔
+- Enjoying recently graduating from my master's degree with a Distinction 🎓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Tools: 
+- Language: Python
+- Database: Teradata, SQL, NoSQL, Neo4j
+- Visualisation: Tableau, PowerBI
+
+Please check out my projects! 📚
