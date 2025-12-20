@@ -1,3 +1,5 @@
+## Introducing myself 🙋
+
 ![1701436506379](https://github.com/user-attachments/assets/b513db06-7054-4c85-ae61-b77846fcffe1)
 
 Hi there, I'm Blu, a Data Scientist based in the UK! 
