@@ -2,17 +2,17 @@
 
 ![1701436506379](https://github.com/user-attachments/assets/b513db06-7054-4c85-ae61-b77846fcffe1)
 
-Hi there, I'm Blu, a Data Scientist based in the UK! 
+Hi there, I'm Blu, a Data Scientist based in the UK. 
 
-Things I'm working on right now: 
+Things I have achieved recently: 
 - GCP certifications ⚡
-- Building a portfolio and website 🌱
+- Personal portfolio and website 🌱
 - Deploying my recent research to GitHub in an explainable way 🤔
-- Enjoying recently graduating from my master's degree with a Distinction 🎓
+- Recently graduating from my master's degree with a Distinction 🎓
 
 
 Tools: 
-- Language: Python
+- Language: Python, R
 - Database: Teradata, SQL, NoSQL, Neo4j
 - Visualisation: Tableau, PowerBI
 
