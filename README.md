@@ -16,4 +16,4 @@ Tools:
 - Database: Teradata, SQL, NoSQL, Neo4j
 - Visualisation: Tableau, PowerBI
 
-Please check out my [projects](https://github.com/bluparsons/Portfolio-Guide/blob/main/README.md)! 📚
+Please check out my [projects](https://github.com/bluparsons/Portfolio-Guide/blob/main/README.md) 📚 and my scikit-learn course ⭐! 
